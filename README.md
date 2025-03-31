@@ -2,7 +2,8 @@
 
 **`Backend Developer`**
 
-I am a developer passionate about programming
+I am a developer passionate about programming.<br>
+💻 I am currently delving deeper into automation and AI, studying N8N, Langflow, artificial intelligence with LLMs, Langchain, RAG, prompt generation, and AI agents, as well as using the Streamlit library
 
 ---
 
@@ -62,4 +63,4 @@ I am a developer passionate about programming
 ---
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/alekyscoelho/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/alekyscoelho/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
